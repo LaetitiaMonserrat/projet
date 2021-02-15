@@ -1,0 +1,15 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "Projet en dev avancée",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "project",
+    "nodejs"
+  ],
+  "author": "Laetitia Monserrat",
+  "license": "ISC"
+}
